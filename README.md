@@ -4,6 +4,7 @@ Magazzino
 Componentistica elettronica
 
 Un semplice foglio di calcolo Excel in cui sono elencati i componenti al momento disponibili per i miei esperimenti
+
 Nulla di sofisticato ma parecchio comodo e facile da mantenere aggiornato...
 
 La cartella di lavoro del file è costituita da più fogli, ciascuno dei quali dedicato ad una diversa tipologia di componenti
