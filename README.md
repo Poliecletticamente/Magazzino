@@ -3,7 +3,7 @@ Magazzino
 
 Componentistica elettronica
 
-Un semplice foglio di calcolo Excel in cui sono elencati i componenti al momento disponibili per i miei esperimenti
+Un semplice foglio di calcolo Excel in cui sono elencati i componenti al momento disponibili per i miei esperimenti.
 
 Nulla di sofisticato ma parecchio comodo e facile da mantenere aggiornato...
 
@@ -13,3 +13,5 @@ dei componenti ancora non censiti è svolta a tempo perso, per questo alcuni fog
 stimo coprano circa il 90% della reale dotazione del laboratorio.
 
 Sono esclusi dall'elenco i componenti ancora da dissialdare/recuperare, da vecchie schede elettroniche
+
+E' prossimo l'upload del file aggiornato alla situazione di Dicembre 2014.
