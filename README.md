@@ -1,7 +1,8 @@
 Magazzino
 =========
 
-Componentistica elettronica - Il mio piccolo magazzino
+Componentistica elettronica
+
 Un semplice foglio di calcolo Excel in cui sono elencati i componenti al momento disponibili per i miei esperimenti
 Nulla di sofisticato ma parecchio comodo e facile da mantenere aggiornato...
 
