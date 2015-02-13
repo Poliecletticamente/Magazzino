@@ -14,4 +14,3 @@ stimo coprano circa il 90% della reale dotazione del laboratorio.
 
 Sono esclusi dall'elenco i componenti ancora da dissialdare/recuperare, da vecchie schede elettroniche
 
-E' prossimo l'upload del file aggiornato alla situazione di Dicembre 2014.
