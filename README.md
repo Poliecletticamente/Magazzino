@@ -1,7 +1,7 @@
 Magazzino
 =========
 
-Componentistica elettronica
+Componentistica elettronica e datasheet
 
 Un semplice foglio di calcolo Excel in cui sono elencati i componenti al momento disponibili per i miei esperimenti.
 
